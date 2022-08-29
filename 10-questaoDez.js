@@ -1,4 +1,4 @@
-function verificaNumerosRepetidos (listaNumeros) {
+function verificaNumerosRepetidos(listaNumeros) {
     var listaRepetidos = [];
 
     for(i=0; i < listaNumeros.length; i++) {
