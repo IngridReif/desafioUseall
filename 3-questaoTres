@@ -1,0 +1,2 @@
+A resposta é "B", loop infinito, pois não há condição que faça com que o while pare de rodar, 
+então ele ficará infinitamente apresentando o resultado no console.
