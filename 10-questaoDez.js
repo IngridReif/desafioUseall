@@ -14,8 +14,8 @@ function verificaNumerosRepetidos(listaNumeros) {
         }
     }
     
-    /*Então, se não existirem números repetidos, o programa avisára, mas se existirem números repetidos, eles serão impressos
-    em uma nova lista, usando join para separá-los. */
+     /*Então, se a lista de número repetidos não conter nada não existem números repetidos, o programa avisára, mas se 
+     existirem números repetidos, eles serão impressos, usando join para separá-los. */
     if (listaRepetidos.length === 0) {
         console.log("Não há números repetidos");
     } else {
