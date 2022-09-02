@@ -8,5 +8,5 @@ var b = 1;
 console.log (a == b);
 console.log (a === b);
 
-// No "==" ele apenas comparou os valores, então o resultado será "true", mesmo um sendo string e o outro número.
+// No "==" ele apenas comparou os valores, então o resultado será "true", mesmo um sendo string e o outro inteiro.
 //No "===" ele comparou o tipo e o valor, imprimindo "false", pois os dois não são iguais.
