@@ -4,7 +4,7 @@ function calculaMedia(lista) {
     var valorTotal = 0; 
     
     /*Inicialmente tanto o i, quanto o valorTotal iniciarão em zero, conforme a lista é percorrida, os valores são
-    substituídos e somados*/
+    percorridos e somados*/
     for (i=0; i < lista.length; i++) {
         valorTotal += lista[i];
     } 
