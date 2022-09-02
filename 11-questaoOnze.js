@@ -19,7 +19,7 @@ function sacar(valor) {
         /*Se conseguir sacar, entrará no switch, quando o valor passado na função sacar, for de um dos "case", aquele 
         case será impresso com as notas que foram sacadas, sempre visando passar o mínimo de notas possível.
         Esse foi o único método que consegui fazer, dentro do conhecimento que tenho, o código fica engessado, já que 
-        o programa conseguirá entregar as notas apenas se o sacar estiver passando até 100. */
+        o programa conseguirá entregar as notas apenas se o sacar for passado até 100. */
         switch (valor) {
             case 10:
                 console.log(notasDez);
